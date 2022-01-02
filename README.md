@@ -16,8 +16,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />
-<img align="left" alt="Jupyter Notebook" width="26px" src=" https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png"/>
+<img align="left" alt="Python" width="70px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />
+<img align="left" alt="Jupyter Notebook" width="70px" src=" https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png"/>
 
 
 
@@ -25,13 +25,6 @@
 <br />
 <br />
 
-
-<details>
-  <summary>:zap: Statistics:</summary>
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladKalachev&langs_count=8&layout=compact" />
-    <br />
-    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=VladKalachev&show_icons=true" />
-</details>
 
 [linkedin]: https://www.linkedin.com/in/nikita-mik-9b166521a/
 [vk]: https://vk.com/chngk
