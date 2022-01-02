@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Nikita
 
-![](https://komarev.com/ghpvc/?username=VladKalachev)
-
 ## I'm a Machine Learning Engineer and Student of BSU
 - 💪 I like to write code
 - 🎉 I love to play football
@@ -17,7 +15,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="70px" src="https://cdn.picpng.com/logo/language-logo-python-44976.png" />
-<img align="left" alt="Jupyter Notebook" width="70px" src=" https://cdn.icon-icons.com/icons2/2699/PNG/512/jupyter_logo_icon_169453.png"/>
+<img align="left" alt="Jupyter Notebook" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/>
 
 
 
